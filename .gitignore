@@ -1,0 +1,9 @@
+# Project Dependencies
+node_modules
+
+# Logs
+*.log
+logs
+
+# MacOS
+.DS_Store
