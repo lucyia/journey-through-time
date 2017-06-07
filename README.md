@@ -32,3 +32,9 @@ No tests were made; none are planned.
 
 MIT
 (see LICENCE for full text)
+
+## Demo
+
+The full page image:
+
+[[https://github.com/lucyia/journey-through-time/blob/master/img/journey.png|alt=journey]]
