@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(5, 9, 20);
+  color: white;
+  font-family: 'Covered By Your Grace', Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: rgb(0, 188, 212);
+}
+
+a:visited {
+  color: rgb(26, 189, 162);
+}
+
+a:hover {
+  color: rgb(255, 199, 76);
+}
+
+.header {
+  position: relative;
+  width: 98vw;
+  height: 98vh;
+  background-image: url('http://p1.pichost.me/i/40/1638093.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 0 0 150px 150px rgb(5, 9, 20) inset;
+  z-index: -10;
+}
+
+.header__heading {
+  position: relative;
+  top: 45%;
+  color: white;
+  font-size: 72px;
+  text-align: center;
+}
+
+.summary {
+  margin-bottom: 500px;
+  margin-top: 500px;
+}
+
+.summary ul {
+  width: 50%;
+  margin: 0 auto;
+  font-size: 52px;
+}
+
+.footer,
+.contribution {
+  text-align: right;
+  margin: 20px;
+}
+
+.footer {
+  font-size: 23px;
+}
+
+.contribution {
+  font-size: 12px;
+}
