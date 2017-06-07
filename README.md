@@ -37,4 +37,4 @@ MIT
 
 The full page image:
 
-[[https://github.com/lucyia/journey-through-time/blob/master/img/journey.png|alt=journey]]
+![Journey Through Time](https://github.com/lucyia/journey-through-time/blob/master/img/journey.png)
