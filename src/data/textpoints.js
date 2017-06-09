@@ -138,7 +138,7 @@ const textpoints = [
     y: 7.25
   },
   {
-    text: '✗ no psychics',
+    text: '✗ no physics',
     color: params.text.color,
     rotate: -20,
     x: 0,
@@ -401,13 +401,13 @@ const textpoints = [
     y: 14.5
   },
   {
-    text: 'Enjoying uni..',
+    text: 'Enjoying uni . . .',
     color: params.text.color,
     x: 1,
     y: 14.7
   },
   {
-    text: '..while studying hard.. NOT!',
+    text: '. . while studying hard . . NOT!',
     color: params.text.color,
     x: 1,
     y: 14.85
@@ -453,13 +453,13 @@ const textpoints = [
     y: 16.1
   },
   {
-    text: 'Studing from start..',
+    text: 'Studing from start . .',
     color: params.text.color,
     x: 1,
     y: 16.35
   },
   {
-    text: '..in reality!',
+    text: '. . in reality!',
     color: params.text.color,
     x: 1,
     y: 16.50
@@ -575,7 +575,7 @@ const textpoints = [
     y: 21.4
   },
   {
-    text: 'Dropped out...',
+    text: 'Dropped out . . .',
     color: params.text.color,
     x: 0,
     y: 21.8
@@ -612,25 +612,25 @@ const textpoints = [
     y: 23.65
   },
   {
-    text: '3 days before Brexit referendum...',
+    text: '3 days before Brexit referendum . . .',
     color: params.text.color,
     x: 1,
     y: 24
   },
   {
-    text: '..Got an offer',
+    text: '. . Got an offer',
     color: params.text.color,
     x: 1,
     y: 24.15
   },
   {
-    text: '3 days after Brexit referendum...',
+    text: '3 days after Brexit referendum . . .',
     color: params.text.color,
     x: 1,
     y: 24.5
   },
   {
-    text: '..Signed the offer',
+    text: '. . Signed the offer',
     color: params.text.color,
     x: 1,
     y: 24.65
